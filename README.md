@@ -1,8 +1,6 @@
 # Welcome to Bookit
-Hi, we are bookit a Exclusive Web3 Airport Experience. 
-As a crypto user who is Traveling for conferences and for fun the options has been lean not to mention the value for money - no cancllation options, no benifits, no lounge access - Basiclly just take what you paid for.
-Bookit is here to change that. 
+Our mission is to provide premium class airport services affordable to all users by establishing a membership club for those who value a little piece of civilization on their journey a dedicated crypto users that are looking for premium products. In short, a place where you are always treated like No. 1.
 
-We are proud to share Bookit - your new exlusive airport experinace - As we are now giving access to lounges as security fast track we will soon rlease our online travel agency to combine all that the travel user crypto or treditinal are looking for.
-
-Stay tuned..
+At Bookit we discovered a new way to experience the airport.
+bookit data driven business development of an on-chain reward mechanism will enable Solana’s most active users to be eligible to claim $BOK token by ChainPoint - Converting networks gas fee to chainponits based on credit cards points model.
+Bookit has received market validation which now will fundamentally change the relationship between consumers and their travel service providers.
